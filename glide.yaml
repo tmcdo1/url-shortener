@@ -1,0 +1,4 @@
+package: github.com/tmcdo1/url-shortener
+import:
+- package: gopkg.in/yaml.v2
+  version: ^2.2.1
